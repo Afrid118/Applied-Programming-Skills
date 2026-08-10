@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0219-contains-duplicate-ii](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0219-contains-duplicate-ii) |
+| [0283-move-zeroes](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0283-move-zeroes) |
 | [1480-running-sum-of-1d-array](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
@@ -23,4 +24,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
