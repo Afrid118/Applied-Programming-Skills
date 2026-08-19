@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0344-reverse-string) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Linked List
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0234-palindrome-linked-list) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Recursion
 |  |
 | ------- |
