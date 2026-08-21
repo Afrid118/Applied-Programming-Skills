@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0020-valid-parentheses) |
+| [0232-implement-queue-using-stacks](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0234-palindrome-linked-list) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Recursion
@@ -73,4 +74,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0020-valid-parentheses) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
