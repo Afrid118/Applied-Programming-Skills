@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0219-contains-duplicate-ii](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0283-move-zeroes) |
+| [0496-next-greater-element-i](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0946-validate-stack-sequences) |
 | [1480-running-sum-of-1d-array](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/1480-running-sum-of-1d-array) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0219-contains-duplicate-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0387-first-unique-character-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0496-next-greater-element-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0946-validate-stack-sequences) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -100,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0387-first-unique-character-in-a-string) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
