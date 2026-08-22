@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0219-contains-duplicate-ii](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0283-move-zeroes) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0049-group-anagrams) |
 | [0219-contains-duplicate-ii](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0219-contains-duplicate-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0496-next-greater-element-i) |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0049-group-anagrams) |
 | [0344-reverse-string](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0387-first-unique-character-in-a-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -109,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0496-next-greater-element-i) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
