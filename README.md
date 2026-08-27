@@ -143,4 +143,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0621-task-scheduler) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
