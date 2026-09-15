@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0641-design-circular-deque](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0641-design-circular-deque) |
 | [0735-asteroid-collision](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0946-validate-stack-sequences) |
+| [1472-design-browser-history](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/1472-design-browser-history) |
 | [1480-running-sum-of-1d-array](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0023-merge-k-sorted-lists) |
 | [0234-palindrome-linked-list](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0234-palindrome-linked-list) |
 | [0641-design-circular-deque](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0641-design-circular-deque) |
+| [1472-design-browser-history](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/1472-design-browser-history) |
 ## Stack
 |  |
 | ------- |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0946-validate-stack-sequences) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1472-design-browser-history](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/1472-design-browser-history) |
 ## Recursion
 |  |
 | ------- |
@@ -107,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0232-implement-queue-using-stacks) |
 | [0641-design-circular-deque](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0641-design-circular-deque) |
 | [1396-design-underground-system](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/1396-design-underground-system) |
+| [1472-design-browser-history](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/1472-design-browser-history) |
 | [1603-design-parking-system](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/1603-design-parking-system) |
 ## Queue
 |  |
@@ -169,4 +173,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0144-binary-tree-preorder-traversal) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/1472-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
