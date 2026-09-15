@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0232-implement-queue-using-stacks) |
 | [0641-design-circular-deque](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0641-design-circular-deque) |
+| [1603-design-parking-system](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/1603-design-parking-system) |
 ## Queue
 |  |
 | ------- |
@@ -115,12 +116,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0946-validate-stack-sequences) |
+| [1603-design-parking-system](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/1603-design-parking-system) |
 ## Counting
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0387-first-unique-character-in-a-string) |
 | [0621-task-scheduler](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0621-task-scheduler) |
+| [1603-design-parking-system](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/1603-design-parking-system) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/1704-determine-if-string-halves-are-alike) |
 ## Monotonic Stack
 |  |
