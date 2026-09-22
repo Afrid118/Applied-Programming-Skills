@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0641-design-circular-deque](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0641-design-circular-deque) |
 | [0735-asteroid-collision](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0946-validate-stack-sequences) |
+| [0997-find-the-town-judge](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0997-find-the-town-judge) |
 | [1472-design-browser-history](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/1472-design-browser-history) |
 | [1480-running-sum-of-1d-array](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0621-task-scheduler) |
+| [0997-find-the-town-judge](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0997-find-the-town-judge) |
 | [1396-design-underground-system](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/1396-design-underground-system) |
 ## Sliding Window
 |  |
@@ -181,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1472-design-browser-history](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/1472-design-browser-history) |
+## Graph Theory
+|  |
+| ------- |
+| [0997-find-the-town-judge](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->
