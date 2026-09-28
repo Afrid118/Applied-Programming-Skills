@@ -170,12 +170,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0144-binary-tree-preorder-traversal) |
 | [0547-number-of-provinces](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0695-max-area-of-island) |
+| [0841-keys-and-rooms](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0841-keys-and-rooms) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0100-same-tree) |
 | [0547-number-of-provinces](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0695-max-area-of-island) |
+| [0841-keys-and-rooms](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0994-rotting-oranges) |
 ## Binary Tree
 |  |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0547-number-of-provinces) |
+| [0841-keys-and-rooms](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0841-keys-and-rooms) |
 | [0997-find-the-town-judge](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0997-find-the-town-judge) |
 ## Matrix
 |  |
