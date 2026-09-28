@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0621-task-scheduler) |
 | [0641-design-circular-deque](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0641-design-circular-deque) |
+| [0695-max-area-of-island](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0695-max-area-of-island) |
 | [0735-asteroid-collision](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0946-validate-stack-sequences) |
 | [0994-rotting-oranges](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0994-rotting-oranges) |
@@ -168,11 +169,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0144-binary-tree-preorder-traversal) |
 | [0547-number-of-provinces](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0695-max-area-of-island) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0100-same-tree) |
 | [0547-number-of-provinces](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0994-rotting-oranges) |
 ## Binary Tree
 |  |
@@ -195,9 +198,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0695-max-area-of-island](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0994-rotting-oranges) |
 ## Union-Find
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
