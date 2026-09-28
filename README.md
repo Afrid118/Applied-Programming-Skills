@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0049-group-anagrams) |
+| [0202-happy-number](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0387-first-unique-character-in-a-string) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0344-reverse-string) |
@@ -245,4 +247,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0207-course-schedule) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
+## Math
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0202-happy-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
