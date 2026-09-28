@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0641-design-circular-deque](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0641-design-circular-deque) |
 | [0735-asteroid-collision](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0946-validate-stack-sequences) |
+| [0994-rotting-oranges](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0997-find-the-town-judge) |
 | [1472-design-browser-history](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/1472-design-browser-history) |
 | [1480-running-sum-of-1d-array](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/1480-running-sum-of-1d-array) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0100-same-tree) |
+| [0994-rotting-oranges](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0994-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
@@ -187,4 +189,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0997-find-the-town-judge](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0997-find-the-town-judge) |
+## Matrix
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
