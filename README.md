@@ -167,10 +167,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0144-binary-tree-preorder-traversal) |
+| [0547-number-of-provinces](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0100-same-tree) |
+| [0547-number-of-provinces](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0547-number-of-provinces) |
 | [0994-rotting-oranges](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0994-rotting-oranges) |
 ## Binary Tree
 |  |
@@ -188,9 +190,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0547-number-of-provinces) |
 | [0997-find-the-town-judge](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0997-find-the-town-judge) |
 ## Matrix
 |  |
 | ------- |
 | [0994-rotting-oranges](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0994-rotting-oranges) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
