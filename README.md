@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0946-validate-stack-sequences) |
+| [0973-k-closest-points-to-origin](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0997-find-the-town-judge) |
 | [1472-design-browser-history](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/1472-design-browser-history) |
@@ -103,12 +104,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0190-reverse-bits) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0973-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0621-task-scheduler) |
+| [0973-k-closest-points-to-origin](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0973-k-closest-points-to-origin) |
 ## Merge Sort
 |  |
 | ------- |
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0721-accounts-merge) |
+| [0973-k-closest-points-to-origin](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0973-k-closest-points-to-origin) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -172,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0973-k-closest-points-to-origin) |
 ## Greedy
 |  |
 | ------- |
@@ -260,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0202-happy-number) |
+| [0973-k-closest-points-to-origin](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0973-k-closest-points-to-origin) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -292,4 +298,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Afrid118/Applied-Programming-Skills/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
